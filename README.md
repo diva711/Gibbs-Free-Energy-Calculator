@@ -22,7 +22,7 @@ To set up the Gibbs Free Energy Calculator locally, follow these steps:
 ## Usage
 To use the Gibbs Free Energy Calculator, run the following command:
 ```bash
-python calculator.py
+python gibbs_calculator.py
 ```
 Follow the prompts to input the necessary parameters for your reaction.
 
